@@ -1,4 +1,1 @@
-![image](https://github.com/Aero-ComSci/about-me-page-RheaCSE/assets/157422210/3f532bf5-f88f-4073-909d-7ab7567f7925)
-Description!
-This apps user interface is to customly create a mathematical expression for every choice of food you choose. Adding different food options like a sandwhich, fries, drinks, and ketchup packets will all influence the way the ap pcalculates your total cost. Depending on sizes, and types of options per the sandwhich, drink, and fries, users will be able to determine the total cost of their food. If a user was to order a sandwhich, fries, and a drink the app automatically gives the user a discount of $1.00 off the total price. 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/XDmtbq2P)
